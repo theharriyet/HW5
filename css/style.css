@@ -1,0 +1,12 @@
+img {
+    width: 500px;
+}
+
+body{
+    background-color: rgba(185, 240, 240, 0.829);
+}
+
+#dtd{
+    width: 500px;
+    border: solid yellowgreen 5px
+}
